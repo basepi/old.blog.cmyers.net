@@ -62,4 +62,4 @@ of weeks ago, and it does _such_ a better job than his notes did.  I wish I had
 bought it the first day of class -- would have been a lifesaver!  I highly
 recommend it to anyone studying theory/models of computation.
 
-[1]: http://mycm.us/y
+[1]: http://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/ref=sr_1_1?ie=UTF8&qid=1324509128&sr=8-1

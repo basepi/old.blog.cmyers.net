@@ -48,5 +48,5 @@ exercise session, but it's a start.
 
 Wish me luck!
 
-[1]: http://mycm.us/14
-[2]: http://mycm.us/15
+[1]: http://zenhabits.net/fitguide/
+[2]: http://www.instapaper.com/
